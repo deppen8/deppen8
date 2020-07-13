@@ -1,5 +1,5 @@
 # Jacob Deppen
-![Twitter Follow](https://img.shields.io/twitter/follow/jacob_deppen?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/jacob_deppen?style=social)](https://twitter.com/jacob_deppen)
 
 ![LinkedIn](https://img.shields.io/badge/Connect_with_me-blue?style=social&logo=linkedin&link=http://www.linkedin.com/in/jacob-deppen&link=http://www.linkedin.com/in/jacob-deppen)
 
