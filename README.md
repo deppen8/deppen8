@@ -9,7 +9,7 @@ I was trained as an archaeologist but found my passion in data science. Here are
 
 **[`pandas-vet` Flake8 linter plug-in](https://github.com/deppen8/pandas-vet)**
 [![badge](https://img.shields.io/badge/GitHub-pandas--vet-blue.svg?logo=github)](https://github.com/deppen8/pandas-vet)
-![GitHub stars](https://img.shields.io/github/stars/deppen8/pandas-vet?style=social)
+[![GitHub stars](https://img.shields.io/github/stars/deppen8/pandas-vet?style=social)](https://github.com/deppen8/pandas-vet)
 [![PyPI](https://img.shields.io/pypi/v/pandas-vet.svg)](https://pypi.org/project/pandas-vet/)
 [![PyPI - Downloads](https://img.shields.io/pypi/dm/pandas-vet.svg)](https://pypi.org/project/pandas-vet/)
 [![Conda Version](https://img.shields.io/conda/vn/conda-forge/pandas-vet.svg)](https://anaconda.org/conda-forge/pandas-vet)
