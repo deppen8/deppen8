@@ -1,7 +1,7 @@
 # Jacob Deppen
 ![Twitter Follow](https://img.shields.io/twitter/follow/jacob_deppen?style=social)
 
-![LinkedIn](https://img.shields.io/badge/Connect-blue?style=social&logo=linkedin&link=http://www.linkedin.com/in/jacob-deppen&link=http://www.linkedin.com/in/jacob-deppen)
+![LinkedIn](https://img.shields.io/badge/Connect_with_me-blue?style=social&logo=linkedin&link=http://www.linkedin.com/in/jacob-deppen&link=http://www.linkedin.com/in/jacob-deppen)
 
 I was trained as an archaeologist but found my passion in data science. Here are some things I like and the public repos to prove it. You can read more details on everything at [deppen8.github.io](https://deppen8.github.io/).
 
@@ -36,7 +36,14 @@ I was trained as an archaeologist but found my passion in data science. Here are
 [![ghw_badge](https://img.shields.io/badge/GitHub-ghw2018__tremorviz-blue.svg?logo=github)](https://github.com/geohackweek/ghw2018_tremorviz/) 
 [![badge](https://img.shields.io/badge/GitHub-tremorviz-blue.svg?logo=github)](https://github.com/deppen8/tremorviz)
 
-## Teaching and learning
+
+## Community, teaching, and learning
+
+**[Sprints - Let's Do More of Those! @ PyGotham 2019](https://pyvideo.org/pygotham-2019/sprints-lets-do-more-of-those.html)**
+![YouTube](https://img.shields.io/badge/Watch_the_talk-blue?style=social&logo=youtube&link=https://youtu.be/8Wc5MkUdp-4&link=https://youtu.be/8Wc5MkUdp-4)
+
+**[Puget Sound Python (PuPPy) Meetup - Scientific Computing SIG (co-organizer)](https://www.meetup.com/PSPPython)**
+![Meetup](https://img.shields.io/badge/Join_the_fun!-blue?style=social&logo=meetup&link=https://www.meetup.com/PSPPython&link=https://www.meetup.com/PSPPython)
 
 **[pandas in black and white](https://deppen8.github.io/pandas-bw/)**
 [![badge](https://img.shields.io/badge/GitHub-pandas--bw-blue.svg?logo=github)](https://github.com/deppen8/pandas-bw)
