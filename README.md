@@ -15,6 +15,13 @@ I was trained as an archaeologist but found my passion in data science. Here are
 [![Conda Version](https://img.shields.io/conda/vn/conda-forge/pandas-vet.svg)](https://anaconda.org/conda-forge/pandas-vet)
 [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/pandas-vet.svg)](https://anaconda.org/conda-forge/pandas-vet)
 
+**[`prospect` Python package](https://deppen8.github.io/prospect/)**
+[![badge](https://img.shields.io/badge/GitHub-prospect-blue.svg?logo=github)](https://github.com/deppen8/prospect)
+[![PyPI](https://img.shields.io/pypi/v/prospect)](https://pypi.org/project/prospect/)
+![PyPI - Downloads](https://img.shields.io/pypi/dm/prospect)
+[![Conda Version](https://img.shields.io/conda/vn/conda-forge/prospect.svg)](https://anaconda.org/conda-forge/prospect) 
+[![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/prospect.svg)](https://anaconda.org/conda-forge/prospect)
+
 **[`leiap` Python package](https://deppen8.github.io/portfolio/leiap_python_package/)** 
 [![badge](https://img.shields.io/badge/GitHub-leiap-blue.svg?logo=github)](https://github.com/deppen8/leiap) 
 [![docs_badge](https://img.shields.io/website-up-down-green-red/https/shields.io.svg?label=leiap_docs&logo=github)](https://deppen8.github.io/leiap/)
@@ -41,6 +48,8 @@ I was trained as an archaeologist but found my passion in data science. Here are
 
 **[Sprints - Let's Do More of Those! @ PyGotham 2019](https://pyvideo.org/pygotham-2019/sprints-lets-do-more-of-those.html)**
 [![YouTube](https://img.shields.io/badge/Watch_the_talk-blue?style=social&logo=youtube)](https://youtu.be/8Wc5MkUdp-4)
+
+**[SciPy Conference 2021 - Sprints Co-chair](https://www.scipy2021.scipy.org/organizers)**
 
 **[Puget Sound Python (PuPPy) Meetup - Scientific Computing SIG (co-organizer)](https://www.meetup.com/PSPPython)**
 [![Meetup](https://img.shields.io/badge/Join_the_fun!-blue?style=social&logo=meetup&link=https://www.meetup.com/PSPPython)](https://www.meetup.com/PSPPython)
