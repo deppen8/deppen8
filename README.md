@@ -46,6 +46,9 @@ I was trained as an archaeologist but found my passion in data science. Here are
 
 ## Community, teaching, and learning
 
+**[Documenting your code: from docstrings to automated builds @ PyCon US 2022 tutorial](https://us.pycon.org/2022/schedule/presentation/34/index.html)
+[![YouTube](https://img.shields.io/badge/Watch_the_talk-blue?style=social&logo=youtube)](https://youtu.be/liBdNwU34e0)**
+
 **[Sprints - Let's Do More of Those! @ PyGotham 2019](https://pyvideo.org/pygotham-2019/sprints-lets-do-more-of-those.html)**
 [![YouTube](https://img.shields.io/badge/Watch_the_talk-blue?style=social&logo=youtube)](https://youtu.be/8Wc5MkUdp-4)
 
